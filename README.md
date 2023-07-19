@@ -1,2 +1,1 @@
-# CORREDOR
-Juego de Corredor Infinito
+# C19_LP_AM1
